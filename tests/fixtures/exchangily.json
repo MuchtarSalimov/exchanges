@@ -1,0 +1,553 @@
+[
+    {
+        "scope": "https://api.exchangily.com:443",
+        "method": "GET",
+        "path": "/publicapi/ticker",
+        "body": "",
+        "status": 200,
+        "response": {
+            "success": true,
+            "data": {
+                "FAB_USDT": {
+                    "last": "0.085",
+                    "base_volume": "20015.8809",
+                    "quote_volume": "235629.67921568627450980392"
+                },
+                "EXG_USDT": {
+                    "last": "0.02",
+                    "base_volume": "30000",
+                    "quote_volume": "1500000"
+                },
+                "ETH_USDT": {
+                    "last": "2179.12",
+                    "base_volume": "0.22538",
+                    "quote_volume": "0.0001035714663753849"
+                },
+                "LTC_USDT": {
+                    "last": "266.06106",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "FAB_ETH": {
+                    "last": "0.00015",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "BTC_USDT": {
+                    "last": "56759.05",
+                    "base_volume": "0.002325",
+                    "quote_volume": "0.00000004131410637331"
+                },
+                "FAB_EXG": {
+                    "last": "6",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "EXG_DUSD": {
+                    "last": "0.02",
+                    "base_volume": "15432",
+                    "quote_volume": "771600"
+                },
+                "FAB_DUSD": {
+                    "last": "0.12",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DOGE_USDT": {
+                    "last": "0.18",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "HOT_USDT": {
+                    "last": "0.00075",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MATIC_USDT": {
+                    "last": "0.07",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MANA_USDT": {
+                    "last": "0.216",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "NVZN_USDT": {
+                    "last": "0.7",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "EXG_ETH": {
+                    "last": "0.00028",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "FAB_BTC": {
+                    "last": "0.0000027",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "EXG_BTC": {
+                    "last": "0.0000179",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "CNB_USDT": {
+                    "last": "1.5405",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "ELF_USDT": {
+                    "last": "0.1575",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "POWR_USDT": {
+                    "last": "0.118",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MTL_USDT": {
+                    "last": "0.406",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DRGN_USDT": {
+                    "last": "0.013",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "GVT_USDT": {
+                    "last": "2.56",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "KNC_USDT": {
+                    "last": "1.35",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "FUN_USDT": {
+                    "last": "0.014",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "BCH_USDT": {
+                    "last": "925.65762",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "TRX_USDT": {
+                    "last": "0.145",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "BCH_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "LTC_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DOGE_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "TRX_BTC": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "BST_USDT": {
+                    "last": "0.58",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "BST_DUSD": {
+                    "last": "0.6",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DSC_USDT": {
+                    "last": "0.068",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DSC_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DOGE_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "BTC_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MANA_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "ETH_BTC": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "BCH_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "BCH_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "LTC_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "LTC_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DOGE_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "INB_USDT": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "INB_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "INB_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "INB_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "HOT_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "HOT_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "HOT_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "CEL_USDT": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "CEL_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "CEL_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "CEL_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MATIC_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MATIC_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MATIC_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "IOST_USDT": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "IOST_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "IOST_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "IOST_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MANA_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MANA_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "WAX_USDT": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "WAX_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "WAX_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "WAX_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "ELF_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "ELF_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "ELF_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "GNO_USDT": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "GNO_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "GNO_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "GNO_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "POWR_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "POWR_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "POWR_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "WINGS_USDT": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "WINGS_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "WINGS_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "WINGS_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MTL_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MTL_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "MTL_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "KNC_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "KNC_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "KNC_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "GVT_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "GVT_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "GVT_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "REP_USDT": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "REP_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "REP_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "REP_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "FUN_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "FUN_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "FUN_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DRGN_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DRGN_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "DRGN_DUSD": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "TRX_ETH": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                },
+                "TRX_EXG": {
+                    "last": "0",
+                    "base_volume": "0",
+                    "quote_volume": "0"
+                }
+            },
+            "message": null
+        },
+        "rawHeaders": [
+            "Server",
+            "nginx/1.10.3 (Ubuntu)",
+            "Date",
+            "Mon, 19 Apr 2021 21:58:15 GMT",
+            "Content-Type",
+            "application/json; charset=utf-8",
+            "Content-Length",
+            "6552",
+            "Connection",
+            "keep-alive",
+            "X-Powered-By",
+            "Express",
+            "Access-Control-Allow-Methods",
+            "GET, POST",
+            "Access-Control-Allow-Headers",
+            "Access-Control-Allow-Headers, Origin,Accept, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers",
+            "Access-Control-Allow-Origin",
+            "*",
+            "ETag",
+            "W/\"1998-4rMF0EfThFIu7QldAtbsOzjM3mE\""
+        ],
+        "responseIsBinary": false
+    }
+]
